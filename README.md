@@ -2,7 +2,7 @@
 - 👀 I'm interested in game development
 - - 🌱 I’m currently learning C++/C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : (@Sdr_Mzf) Telegram ID
+- 📫 How to reach me : (@Sdr_Mz) Telegram ID
 - Do not expect a special resume from a beginner
 
 <!---
